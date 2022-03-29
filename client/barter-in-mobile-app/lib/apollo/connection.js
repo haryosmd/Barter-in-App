@@ -2,7 +2,7 @@ import { ApolloClient, InMemoryCache } from "@apollo/client";
 
 const client = new ApolloClient({
   //ganti ngrok
-  uri: "https://barterin-orchestartor.herokuapp.com",
+  uri: "https://orchestrator-barterin.herokuapp.com/",
   cache: new InMemoryCache(),
 });
 
