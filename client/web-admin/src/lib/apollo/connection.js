@@ -1,7 +1,7 @@
 import { ApolloClient, InMemoryCache } from "@apollo/client";
 
 const client = new ApolloClient({
-  uri: "https://orchestrator-barter-in.herokuapp.com/",
+  uri: "https://orchestrator-barterin.herokuapp.com/",
   cache: new InMemoryCache(),
 });
 
