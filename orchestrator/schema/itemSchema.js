@@ -1,7 +1,7 @@
 const { gql } = require("apollo-server");
 const axios = require("axios");
 const Redis = require("ioredis");
-const url = "https://barterin-server.herokuapp.com/users";
+const url = "https://server-barterin.herokuapp.com/users";
 const redis = new Redis({
   port: 10199,
   host: "redis-10199.c98.us-east-1-4.ec2.cloud.redislabs.com",
@@ -205,7 +205,7 @@ const resolvers = {
         } = newItem;
         let { data } = await axios.post(
           `${url}/addItem`,
-           { title, description, category, yearOfPurchase, brand, imageFields },
+          { title, description, category, yearOfPurchase, brand, imageFields },
           {
             headers: {
               access_token: access_token,
