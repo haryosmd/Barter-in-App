@@ -1,0 +1,364 @@
+[
+  {
+    "title": "Out Cast T-Shirt",
+    "description": "T-shirt pria yang cepat kering sehingga terasa halus dan fresh sepanjang hari. Sempurna untuk gaya kasual",
+    "category": "Fashion",
+    "brand": "Out Cast ",
+    "yearOfPurchase": "2021",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 1
+  },
+  {
+    "title": "Jeans Nyc",
+    "description": "Great condition jeans with a lot of pockets and a lot of pockets. I'm not sure if it's still used or not, but it's still good",
+    "category": "Fashion",
+    "brand": "Jeans",
+    "yearOfPurchase": "2021",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 2
+  },
+  {
+    "title": "Black Suit for Man",
+    "description": "Great condition suit for man with a lot of pockets and a lot of pockets. I'm not sure if it's still used or not, but it's still good",
+    "category": "Fashion",
+    "brand": "H&M",
+    "yearOfPurchase": "2020",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 1
+  },
+  {
+    "title": "Blank Nyc Jacket",
+    "description": "Black Nyc Jacket with great condition, but it's still good, with great quality and good condition",
+    "category": "Fashion",
+    "brand": "Nyc Jacket",
+    "yearOfPurchase": "2022",
+    "statusPost": "Pending",
+    "statusBarter": "Not bartered yet",
+    "userId": 2
+  },
+  {
+    "title": "Sport Jacket",
+    "description": "Sport jacket with great condition, but it's still good, with great quality and good color",
+    "category": "Fashion",
+    "brand": "Adidas",
+    "yearOfPurchase": "2022",
+    "statusPost": "Pending",
+    "statusBarter": "Not bartered yet",
+    "userId": 3
+  },
+  {
+    "title": "Light Wieght Jacket",
+    "description": "Light Wieght Jacket with great condition, but it's still good, with great quality and good color",
+    "category": "Fashion",
+    "brand": "Light Weight Jacket",
+    "yearOfPurchase": "2022",
+    "statusPost": "Rejected",
+    "statusBarter": "Not bartered yet",
+    "userId": 1
+  },
+
+  {
+    "title": "Song of Achiles",
+    "description": "The Song of Achilles is a 2011 novel by American writer Madeline Miller. Set during the Greek Heroic Age, it is an adaptation of Homer's Iliad as told from the perspective of Patroclus.",
+    "category": "Book",
+    "brand": "Madeline Miller",
+    "yearOfPurchase": "2011",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 2
+  },
+  {
+    "title": "Harry Potter and Chamber of Secrets",
+    "description": "Harry Potter (Daniel Radcliffe) returns to Hogwarts School of Wizardry for his second year. After a confrontation with a house-elf named Dobby (Toby Jones), Harry escapes to the Weasley house with Ron Weasley (Rupert Grint) in a flying car. They are then late for the train and have to ride it to school.",
+    "category": "Book",
+    "brand": "Bloomsbury Publishing",
+    "yearOfPurchase": "2003",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 1
+  },
+  {
+    "title": "Stay Gold",
+    "description": "Stay Gold is a novel by American author John Green. It was first published on August 1, 2006 by HarperCollins and is the first novel in the Green Series.",
+    "category": "Book",
+    "brand": "HarperCollins",
+    "yearOfPurchase": "2006",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 2
+  },
+  {
+    "title": "Dead Edward",
+    "description": "Dear Edward is a 2020 novel by American writer Ann Napolitano. It tells the story of a 12-year-old boy who is the sole survivor of a plane crash that kills all of the other 191 passengers, including the protagonist's family. Dear Edward was published on January 6, 2020, by The Dial Press. It is Napolitano's third novel.",
+    "category": "Book",
+    "brand": "Ann Napolitano",
+    "yearOfPurchase": "2020",
+    "statusPost": "Pending",
+    "statusBarter": "Not bartered yet",
+    "userId": 3
+  },
+  {
+    "title": "The Grace Year",
+    "description": "With sharp prose and gritty realism, The Grace Year examines the complex and sometimes twisted relationships between girls, the women they eventually become, and the difficult decisions they make in-between.",
+    "category": "Book",
+    "brand": "Kim Liggett",
+    "yearOfPurchase": "2019",
+    "statusPost": "Pending",
+    "statusBarter": "Not bartered yet",
+    "userId": 1
+  },
+  {
+    "title": "Leonardo Da Vinci",
+    "description": "was an Italian man who lived in the time of the Renaissance. He is famous for his paintings, but he was also a scientist, mathematician, engineer, inventor, anatomist, sculptor, architect, botanist, musician, and a writer.",
+    "category": "Book",
+    "brand": "Walter Isaacson",
+    "yearOfPurchase": "2017",
+    "statusPost": "Rejected",
+    "statusBarter": "Not bartered yet",
+    "userId": 2
+  },
+  {
+    "title": "Sofa Kursi Meja",
+    "description": "Bahan Jati, Sudah terpakai selama 18 tahun",
+    "category": "Decoration",
+    "brand": "-",
+    "yearOfPurchase": "2004",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 1
+  },
+  {
+    "title": "Meja Tv Koin Kayu Jati",
+    "description": "Bahan baku kayu jati super (tpk) ",
+    "category": "Decoration",
+    "brand": "-",
+    "yearOfPurchase": "2006",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 2
+  },
+  {
+    "title": "Patung Babi Abstrak",
+    "description": "Patung hiasan rumah bahan porcelin kondisi masih seperti baru",
+    "category": "Decoration",
+    "brand": "-",
+    "yearOfPurchase": "2020",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 3
+  },
+  {
+    "title": "Patung Dewa Fu Lu Shou",
+    "description": "Dewa keberuntungan, dewa panjang umur",
+    "category": "Decoration",
+    "brand": "-",
+    "yearOfPurchase": "2020",
+    "statusPost": "Pending",
+    "statusBarter": "Not bartered yet",
+    "userId": 1
+  },
+  {
+    "title": "Karpet Hiasan Dinding",
+    "description": "Kondisi masih seperti baru, bahan terbuat dari kain",
+    "category": "Decoration",
+    "brand": "-",
+    "yearOfPurchase": "2017",
+    "statusPost": "Pending",
+    "statusBarter": "Not bartered yet",
+    "userId": 2
+  },
+  {
+    "title": "Lukisan Le Maeyeur",
+    "description": "Lukisan otentik Maestro Le Mayeur / Belgia 1888 - 1958, dari th 1932 tinggal dibali & Married dgn penari Bali , sering jadi modelnya ( Ni Pollok ), size 35 x 48 , 250 jt otentik kolektor , murah BU",
+    "category": "Decoration",
+    "brand": "-",
+    "yearOfPurchase": "2001",
+    "statusPost": "Rejected",
+    "statusBarter": "Not bartered yet",
+    "userId": 1
+  },
+  {
+    "title": "Iphone 12 PRO",
+    "description": "Fungsi normal, fisik seperti baru",
+    "category": "Electronic",
+    "brand": "Iphone",
+    "yearOfPurchase": "2018",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 2
+  },
+  {
+    "title": "Iphone XR 64GB",
+    "description": "Mulus no lecet, fullset",
+    "category": "Electronic",
+    "brand": "Iphone",
+    "yearOfPurchase": "2017",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 3
+  },
+  {
+    "title": "Kulkas 2 pintu",
+    "description": "Kulkas lg 2 pintu jumbo kondisi bagus",
+    "category": "Electronic",
+    "brand": "Sharp",
+    "yearOfPurchase": "2018",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 1
+  },
+  {
+    "title": "Fitbit 5",
+    "description": "kondisi baru, masih di segel",
+    "category": "Electronic",
+    "brand": "Fitbit",
+    "yearOfPurchase": "2019",
+    "statusPost": "Pending",
+    "statusBarter": "Not bartered yet",
+    "userId": 2
+  },
+  {
+    "title": "Samsung S22",
+    "description": "Kondisi layaknya barang baru, baru pakai 2 mingguan sejak di kirim 4 maret kemaren.",
+    "category": "Electronic",
+    "brand": "Samsung",
+    "yearOfPurchase": "2021",
+    "statusPost": "Pending",
+    "statusBarter": "Not bartered yet",
+    "userId": 1
+  },
+  {
+    "title": "Lenovo Thinkpad X1",
+    "description": "LENOVO THINKPAD X1 YOGA, BISA BERUBAH JADI TABLET",
+    "category": "Electronic",
+    "brand": "Lenovo",
+    "yearOfPurchase": "2016",
+    "statusPost": "Rejected",
+    "statusBarter": "Not bartered yet",
+    "userId": 2
+  },
+  {
+    "title": "Nissan Skyline R30",
+    "description": "Nissan Skyline cocok untuk kolektor automotive lawas",
+    "category": "Automotive",
+    "brand": "Nissan",
+    "yearOfPurchase": "1989",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 3
+  },
+  {
+    "title": "Honda Beat Modifico",
+    "description": "Honda Beat Modifico, kondisi baru, bisa dijual",
+    "category": "Automotive",
+    "brand": "Honda",
+    "yearOfPurchase": "2019",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 1
+  },
+  {
+    "title": "Nissan Versa Note",
+    "description": "Rear three quarter view of a 2014 Nissan Versa Note SV SL Hatchback2014 Nissan Versa Note SV SL Hatchback.",
+    "category": "Automotive",
+    "brand": "Nissan",
+    "yearOfPurchase": "2014",
+    "statusBarter": "Not bartered yet",
+    "statusPost": "Accepted",
+    "userId": 2
+  },
+  {
+    "title": "Kawasaki Ninja 250R",
+    "description": "kawasaki ninja 250R, kondisi baru, bisa dijual",
+    "category": "Automotive",
+    "brand": "Kawasaki",
+    "yearOfPurchase": "2014",
+    "statusBarter": "Not bartered yet",
+    "statusPost": "Pending",
+    "userId": 1
+  },
+  {
+    "title": "Yamaha Mio Black",
+    "description": "Yamaha mio black, kondisi bagus, baru pakai",
+    "category": "Automotive",
+    "brand": "Yamaha",
+    "yearOfPurchase": "2015",
+    "statusBarter": "Not bartered yet",
+    "statusPost": "Pending",
+    "userId": 2
+  },
+  {
+    "title": "1996 Honda C100",
+    "description": "1996 Honda C100, kondisi bagus,dengan 3 varian warna berbeda",
+    "category": "Automotive",
+    "brand": "Honda",
+    "yearOfPurchase": "1966",
+    "statusBarter": "Not bartered yet",
+    "statusPost": "Rejected",
+    "userId": 3
+  },
+
+  {
+    "title": "Barbel 5kg",
+    "description": "Batang besi yang pada kedua ujungnya dibubuhi piringan besi dengan berat tertentu yang dapat dilepas, digunakan dalam olahraga angkat besi; halter",
+    "category": "Others",
+    "brand": "Hercules",
+    "yearOfPurchase": "2021",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 1
+  },
+  {
+    "title": "Alat Gym mini set",
+    "description": "Set alat gym mini poertable bisa digunakan dirumah atau di kantor",
+    "category": "Others",
+    "brand": "Enormus",
+    "yearOfPurchase": "2022",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 2
+  },
+  {
+    "title": "Lego set Toys",
+    "description": "Mainan untuk anak Lego dengan banyak macam bentuk",
+    "category": "Others",
+    "brand": "Lego",
+    "yearOfPurchase": "2022",
+    "statusPost": "Accepted",
+    "statusBarter": "Not bartered yet",
+    "userId": 1
+  },
+  {
+    "title": "Diecast toy",
+    "description": "Mainan untuk anak Diecast mobil dengan banyak macam jenis mobil",
+    "category": "Others",
+    "brand": "Diecast",
+    "yearOfPurchase": "2022",
+    "statusPost": "Pending",
+    "statusBarter": "Not bartered yet",
+    "userId": 2
+  },
+  {
+    "title": "Nerf Gun",
+    "description": "Mainan untuk anak Nerf Gun dengan banyak macam jenis, dan aman untuk dimainkan, namun butuh pengawasan",
+    "category": "Others",
+    "brand": "Nerf",
+    "yearOfPurchase": "2022",
+    "statusPost": "Pending",
+    "statusBarter": "Not bartered yet",
+    "userId": 3
+  },
+  {
+    "title": "Chucky Dols",
+    "description": "Mainan untuk anak Chucky dols dan aman untuk dimainkan, namun butuh pengawasan",
+    "category": "Others",
+    "brand": "Nerf",
+    "yearOfPurchase": "2022",
+    "statusPost": "Rejected",
+    "statusBarter": "Not bartered yet",
+    "userId": 1
+  }
+]

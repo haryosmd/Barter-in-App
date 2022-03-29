@@ -1,0 +1,54 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "joko",
+            "email": "joko@gmail.com",
+            "password": "joko@gmail.com",
+            "role": "customer",
+            "address": "jalan kenangan"
+        }
+    ],
+    "MyList": [
+        {
+            "id": 1,
+            "ItemId": "BELUMISI",
+            "UserId": "BELUMISI"
+        }
+    ],
+    "MyAds": [
+        {
+            "id": 1,
+            "ItemId": "BELUMISI",
+            "UserId": "BELUMISI",
+            "status": "BELUMISI"
+        }
+    ],
+    "Rooms": [
+        {
+            "id": 1,
+            "UserId1": "BELUMISI",
+            "UserId2": "BELUMISI"
+        }
+    ],
+    "Items": [
+        {
+            "id": 1,
+            "title": "BELUMISI",
+            "category": "BELUMISI",
+            "description": "BELUMISI",
+            "brand": "BELUMISI",
+            "yearOfPusrchase": "BELUMISI",
+            "dateExpired": "BELUMISI",
+            "MyAdsId": "BELUMISI",
+            "UserId": "BELUMISI"
+        }
+    ],
+    "ImageUrl": [
+        {
+            "id": 1,
+            "ItemId": "BELUMISI",
+            "ImageUrl": "BELUMISI"
+        }
+    ]
+  }

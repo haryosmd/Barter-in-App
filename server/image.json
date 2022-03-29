@@ -1,0 +1,542 @@
+[
+  {
+    "itemId": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1527719327859-c6ce80353573?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+    "tag": "outcast-tshirt"
+  },
+  {
+    "itemId": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1527718641255-324f8e2d0421?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+    "tag": "outcast-tshirt"
+  },
+  {
+    "itemId": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1527718641255-324f8e2d0421?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+    "tag": "outcast-tshirt"
+  },
+  {
+    "itemId": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1624378441864-6eda7eac51cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+    "tag": "jeans-nyc"
+  },
+  {
+    "itemId": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=397&q=80",
+    "tag": "jeans-nyc"
+  },
+  {
+    "itemId": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1624378439140-20d221f1b36d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=427&q=80",
+    "tag": "jeans-nyc"
+  },
+  {
+    "itemId": 3,
+    "imageUrl": "https://i.pinimg.com/564x/44/fc/1e/44fc1efab5cd3f44f0ae8b53e5c228f6.jpg",
+    "tag": "black-jas"
+  },
+  {
+    "itemId": 3,
+    "imageUrl": "https://i.pinimg.com/564x/c4/9a/61/c49a61e8a022af29513d739d90122f83.jpg",
+    "tag": "black-jas"
+  },
+  {
+    "itemId": 3,
+    "imageUrl": "https://i.pinimg.com/564x/e7/0f/30/e70f30066ff8db90ddd8bac0237b35ae.jpg",
+    "tag": "black-jas"
+  },
+  {
+    "itemId": 4,
+    "imageUrl": "https://i.pinimg.com/564x/50/b2/a1/50b2a1ad41caa1fc891123b21b0957d9.jpg",
+    "tag": "blank-nyc-jacket"
+  },
+  {
+    "itemId": 4,
+    "imageUrl": "https://i.pinimg.com/564x/87/24/b2/8724b20fbdfd877ee3c9b8d6dfed6e46.jpg",
+    "tag": "blank-nyc-jacket"
+  },
+  {
+    "itemId": 4,
+    "imageUrl": "https://i.pinimg.com/564x/61/ec/71/61ec71742e88aac34a03a1f07d1486e4.jpg",
+    "tag": "blank-nyc-jacket"
+  },
+  {
+    "itemId": 5,
+    "imageUrl": "https://i.pinimg.com/564x/17/2d/04/172d0412d2c885a9fd3996066d9aa49b.jpg",
+    "tag": "adidas-jacket"
+  },
+  {
+    "itemId": 5,
+    "imageUrl": "https://i.pinimg.com/564x/76/b6/63/76b663a1cf372badc2d0e96002e5b718.jpg",
+    "tag": "adidas-jacket"
+  },
+  {
+    "itemId": 5,
+    "imageUrl": "https://i.pinimg.com/564x/ca/0f/51/ca0f5177224175256f272573c11ab601.jpg",
+    "tag": "adidas-jacket"
+  },
+  {
+    "itemId": 6,
+    "imageUrl": "https://i.pinimg.com/564x/a9/35/4e/a9354e5c54f842f075fde94ccd5bc3fe.jpg",
+    "tag": "light-weight-jacket"
+  },
+  {
+    "itemId": 6,
+    "imageUrl": "https://i.pinimg.com/564x/49/60/80/496080d4d1c0cee7567e07e123f6c093.jpg",
+    "tag": "light-weight-jacket"
+  },
+  {
+    "itemId": 6,
+    "imageUrl": "https://i.pinimg.com/564x/ca/0f/51/ca0f5177224175256f272573c11ab601.jpg",
+    "tag": "light-weight-jacket"
+  },
+  {
+    "itemId": 7,
+    "imageUrl": "https://i.pinimg.com/564x/34/9e/f7/349ef7bd133e037fdb2a5e82d598be6c.jpg",
+    "tag": "song-of-achiles"
+  },
+  {
+    "itemId": 7,
+    "imageUrl": "https://i.pinimg.com/564x/b9/86/d8/b986d83cc837b273928a466554364d2d.jpg",
+    "tag": "song-of-achiles"
+  },
+  {
+    "itemId": 7,
+    "imageUrl": "https://i.pinimg.com/564x/5b/28/db/5b28db1a691a93bb425faef412e5732d.jpg",
+    "tag": "song-of-achiles"
+  },
+  {
+    "itemId": 8,
+    "imageUrl": "https://i.pinimg.com/564x/8a/8c/af/8a8caf1c89aaa2a06856253805d910f9.jpg",
+    "tag": "harry-poter-book"
+  },
+  {
+    "itemId": 8,
+    "imageUrl": "https://i.pinimg.com/564x/3b/bb/16/3bbb160d86915c2bc57dde10f58ba675.jpg",
+    "tag": "harry-poter-book"
+  },
+  {
+    "itemId": 8,
+    "imageUrl": "https://i.pinimg.com/564x/25/a8/2b/25a82bdad14aa63aa4b0df723c71fc66.jpg",
+    "tag": "harry-poter-book"
+  },
+  {
+    "itemId": 9,
+    "imageUrl": "https://i.pinimg.com/564x/04/a0/0c/04a00cd510eab190ddf609e962a70cbe.jpg",
+    "tag": "stay-gold-book"
+  },
+  {
+    "itemId": 9,
+    "imageUrl": "https://i.pinimg.com/564x/8c/48/bb/8c48bb6622a5e4fc25f06d1d044567f9.jpg",
+    "tag": "stay-gold-book"
+  },
+  {
+    "itemId": 9,
+    "imageUrl": "https://i.pinimg.com/564x/63/88/63/638863afa386a602493e3a022fca8f5a.jpg",
+    "tag": "stay-gold-book"
+  },
+  {
+    "itemId": 10,
+    "imageUrl": "https://i.pinimg.com/564x/3c/5f/6a/3c5f6acb736104f6c2a79e61c9d874ae.jpg",
+    "tag": "dead-edward"
+  },
+  {
+    "itemId": 10,
+    "imageUrl": "https://i.pinimg.com/564x/57/e8/6f/57e86fb9e80e73ed7067d3757d87a582.jpg",
+    "tag": "dead-edward"
+  },
+  {
+    "itemId": 10,
+    "imageUrl": "https://i.pinimg.com/564x/b5/3f/9e/b53f9eb0ae1a2d691ac8431a950d2f86.jpg",
+    "tag": "dead-edward"
+  },
+  {
+    "itemId": 11,
+    "imageUrl": "https://i.pinimg.com/564x/8f/3e/83/8f3e830298d5a4ba4cc127bb31878f51.jpg",
+    "tag": "the-grace-year"
+  },
+  {
+    "itemId": 11,
+    "imageUrl": "https://i.pinimg.com/564x/e2/78/2a/e2782afa4979252d1a29e7d08db20541.jpg",
+    "tag": "the-grace-year"
+  },
+  {
+    "itemId": 11,
+    "imageUrl": "https://i.pinimg.com/564x/75/de/d0/75ded04f565e309003ad78c51f4c3601.jpg",
+    "tag": "the-grace-year"
+  },
+  {
+    "itemId": 12,
+    "imageUrl": "https://i.pinimg.com/564x/70/88/11/708811756aee2d08ef99893cbd14c62e.jpg",
+    "tag": "leonardo-davinci"
+  },
+  {
+    "itemId": 12,
+    "imageUrl": "https://i.pinimg.com/564x/40/67/b0/4067b0e3b3b66757e9eaad622bb8f7bc.jpg",
+    "tag": "leonardo-davinci"
+  },
+  {
+    "itemId": 12,
+    "imageUrl": "https://i.pinimg.com/564x/ed/f8/f6/edf8f604ecb9aa8d3593e67387ab4b90.jpg",
+    "tag": "leonardo-davinci"
+  },
+  {
+    "itemId": 13,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/mcfjs017hv32-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 13,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/s3snhijt9eg-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 13,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/1ydx1spc1f622-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 14,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/9ohdsdtangys3-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 14,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/63zs81ur12ya-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 14,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/xqqx19jzs6ux-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 15,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/o5vuickcto2h1-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 15,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/elw0u79gzmad3-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 15,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/yr0f416tsocy-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 16,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/q1b0u4my15iy1-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 16,
+    "imageUrl": "https://s2.bukalapak.com/img/29559791182/s-330-330/data.jpeg.webp",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 16,
+    "imageUrl": "https://s1.bukalapak.com/img/18097962062/s-330-330/data.jpeg.webp",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 17,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/u06lyj2ch758-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 17,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/iaivqcym7tzl2-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 17,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/wmz6z56omhvy1-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 18,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/g93bvfyx1aec1-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 18,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/j6afcb3cnl7g1-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 18,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/07xnldj5mh6e2-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 19,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/ijmyuu1ejrf93-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 19,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/5ic522l33i4r2-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 19,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/j1ig0z0uqsbi3-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 20,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/bcf7t8mvi5sx1-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 20,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/ppg197peqjkv3-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 20,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/dzsz823p3mu71-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 21,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/n3ktc9thxa2o3-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 21,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/zq1lxph0ta751-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 21,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/7j3qi9qk08q93-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 22,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/e0e8q20nmm4f2-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 22,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/0byv8kc1y9y9-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 22,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/pwiou4tyjgfm3-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 23,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/w9t5dxhnhczo2-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 23,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/bggdio64ovmo2-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 23,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/tp1kblztw4j6-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 24,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/mahfyitrcy5m3-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 24,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/krm7h23eaiw93-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 24,
+    "imageUrl": "https://apollo-singapore.akamaized.net/v1/files/h18qspj3m8ie2-ID/image;s=780x0;q=60",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 25,
+    "imageUrl": "https://i.pinimg.com/564x/c1/fa/b0/c1fab035b558bf4b81388f6c67569958.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 25,
+    "imageUrl": "https://i.pinimg.com/564x/8c/a1/51/8ca15139cadd50926f2f52c5a5957c44.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 25,
+    "imageUrl": "https://i.pinimg.com/564x/43/ca/d4/43cad4ee8ffd687ca5a4fb9a1668a9b1.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 26,
+    "imageUrl": "https://i.pinimg.com/564x/84/66/5f/84665f68f99f24a3e850826a0bb41fdb.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 26,
+    "imageUrl": "https://i.pinimg.com/564x/26/f0/85/26f0854c5b1eec0a3c7d985719498ac1.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 26,
+    "imageUrl": "https://i.pinimg.com/564x/b8/2b/f9/b82bf9c188b20f02da8817b4e826394f.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 27,
+    "imageUrl": "https://i.pinimg.com/564x/aa/01/df/aa01df88acf1bac82294514c378e7768.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 27,
+    "imageUrl": "https://i.pinimg.com/564x/cb/62/2d/cb622dfe5a761a41adb6322503864d5f.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 27,
+    "imageUrl": "https://i.pinimg.com/564x/6c/ff/8b/6cff8b8606b9ce62c15cdbc94ff6b716.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 28,
+    "imageUrl": "https://i.pinimg.com/564x/73/15/b7/7315b796a0b8b60eebc4c44239412f68.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 28,
+    "imageUrl": "https://i.pinimg.com/564x/17/14/92/171492462db4d759474908ece4542c18.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 28,
+    "imageUrl": "https://i.pinimg.com/564x/64/56/4d/64564db4389a32da897aaaa2e12cd8f2.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 29,
+    "imageUrl": "https://i.pinimg.com/564x/94/e0/8e/94e08ef22301fce8c238d23f5c943633.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 29,
+    "imageUrl": "https://i.pinimg.com/564x/67/97/b7/6797b7747f024f4e3dd3d5d53dcdd430.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 29,
+    "imageUrl": "https://i.pinimg.com/564x/59/7d/e0/597de0dc9f646ebb2bcc72762dcf30a6.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 30,
+    "imageUrl": "https://i.pinimg.com/564x/33/b2/c3/33b2c3ae7a03981d4b423f5e4aa297b2.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 30,
+    "imageUrl": "https://i.pinimg.com/564x/43/3b/37/433b3722a54d94977e47b1a4b3a2c254.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 30,
+    "imageUrl": "https://i.pinimg.com/564x/cd/61/2d/cd612d9b3a188e1416f113e2b2f84e52.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 31,
+    "imageUrl": "https://id-live-01.slatic.net/p/4476a6290dfd518cbc9b95522d85dbe6.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 31,
+    "imageUrl": "https://id-live-01.slatic.net/p/4476a6290dfd518cbc9b95522d85dbe6.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 31,
+    "imageUrl": "https://id-live-01.slatic.net/p/4476a6290dfd518cbc9b95522d85dbe6.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 32,
+    "imageUrl": "https://i.pinimg.com/564x/9b/65/40/9b6540809986711982a581fb38ca3e7e.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 32,
+    "imageUrl": "https://i.pinimg.com/564x/f6/a6/f3/f6a6f34886f357c2f86600b56874eeca.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 32,
+    "imageUrl": "https://i.pinimg.com/564x/f3/52/0a/f3520a707c2c5c02b884ce5d15904b8b.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 33,
+    "imageUrl": "https://i.pinimg.com/564x/1e/0f/58/1e0f58310d2f6186cb8b7ee8f58ddbd4.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 33,
+    "imageUrl": "https://i.pinimg.com/736x/19/2a/49/192a49837dc64a2243344da67844cc7e.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 33,
+    "imageUrl": "https://i.pinimg.com/736x/1a/5e/5b/1a5e5b3c610d69e1583963783bad2f9c.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 34,
+    "imageUrl": "https://i.pinimg.com/564x/4b/62/72/4b62722a238a63cc33ac024c6bce3973.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 34,
+    "imageUrl": "https://i.pinimg.com/564x/fc/56/c3/fc56c3dd145372a85abff8cd379eae91.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 34,
+    "imageUrl": "https://i.pinimg.com/564x/81/ff/ff/81ffffd2a2acfe50baf923a9675724a8.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 35,
+    "imageUrl": "https://i.pinimg.com/564x/55/f0/fa/55f0fa34eed24f2806729efcec545e55.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 35,
+    "imageUrl": "https://i.pinimg.com/564x/c9/ed/fe/c9edfeebc486d0d57274038b0411457c.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 35,
+    "imageUrl": "https://i.pinimg.com/564x/55/f0/fa/55f0fa34eed24f2806729efcec545e55.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 36,
+    "imageUrl": "https://i.pinimg.com/564x/ac/7a/95/ac7a95cd72df939a795f1a7cea6fe2f8.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 36,
+    "imageUrl": "https://i.pinimg.com/564x/c2/35/1d/c2351d61977c77615eaf4e21af604668.jpg",
+    "tag": "test-input"
+  },
+  {
+    "itemId": 36,
+    "imageUrl": "https://i.pinimg.com/564x/e8/d1/37/e8d1374cd83b1d8499be85b6640e6a38.jpg",
+    "tag": "test-input"
+  }
+]
